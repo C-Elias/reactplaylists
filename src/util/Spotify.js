@@ -1,6 +1,6 @@
 const clientId = 'ab315851dd8d4d23a85da8c08addf3cd';
-const redirect_uri = 'http://fearless-art.surge.sh'
-// const redirect_uri = 'http://nwjammming.surge.sh';
+const redirect_uri = 'https://reactplaylists.vercel.app/'
+
 
 let token;
 
